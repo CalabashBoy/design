@@ -1,6 +1,5 @@
 package mediator;
 
-import jdk.vm.ci.code.site.Mark;
 import org.junit.Test;
 
 /**
